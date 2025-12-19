@@ -5,7 +5,7 @@ About Me
 
 Junior Software Developer with dual nationality (Denmark and China).  
 Focused on low-level programming and AI development.
--------------------------------------------------------------------------------------------------------------------------------
+
 ## Current Work
 
 - Programming in **C**
@@ -15,18 +15,18 @@ Focused on low-level programming and AI development.
   - Python
   - Rust
   - HTML
---------------------------------------------------------------------------------------------------------------------------------
+
 ## Tools
 
 - Visual Studio Code
 - Xcode
----------------------------------------------------------------------------------------------------------------------------------
+
 ## A Bit About Me
 
 - 📺 I enjoy watching anime, especially *Classroom of the Elite*, *Solo Leveling*, and *The Irregular at Magic High School*.
 - 📱 I enjoy playing brawl stars in my free time/also clash royale
 - 🐔 I have a pet chicken
-----------------------------------------------------------------------------------------------------------------------------------
+
 ## Contact
 
 - ianqiulillelund@gmail.com  
