@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Kiyo.Ai](https://github.com/IanQiu979/Kiyo.Ai)
 
-- 🌱 I’m currently learning **Cs50 Harvard Course, Tatsuya Shiba Roadmap**
+- 🌱 I’m currently learning **Harvard's Cs50 Course, and the Tatsuya Shiba Roadmap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IanQiu979/IanQiu979/blob/main/README.md](https://github.com/IanQiu979/IanQiu979/blob/main/README.md)
 
 - 💬 Ask me about **C programming, Html and Css**
   
-- - Learning additional languages:
+- Learning additional languages:
   - C++
   - Python
   - Rust
