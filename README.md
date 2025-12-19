@@ -1,19 +1,33 @@
-## Hey there!
+About Me
 
-# I am Ian Qiu
-# I am a dual national citizen from Denmark and China
-# I currently am a Junior developer 
+# Ian Qiu
 
-# Currenlty working on:
-# The Lanuguage C
-# Creating an Ai model named Kiyo.Ai
-# Learning other type of Languages (Example: C++, Python, Rust, Html and more)
+Junior Software Developer with dual nationality (Denmark and China).  
+Focused on low-level programming and AI development.
 
-# I use the tools of Visual Studio Code and Xcode to help me code with C
+## Current Work
 
-# You can reach me by emailing me with these two emails:
-# ianqiulillelund@gmail.com
-# i78979848@gmail.com
+- Programming in **C**
+- Developing an AI model: **Kiyo.AI**
+- Learning additional languages:
+  - C++
+  - Python
+  - Rust
+  - HTML
 
-# Thank you
+## Tools
+
+- Visual Studio Code
+- Xcode
+
+## Fun Fact
+
+- I enjoy watching anime, especially *Classroom of the Elite*, *Solo Leveling*, and *The Irregular at Magic High School*.
+- I enjoy playing brawl stars in my free time/also clash royale
+- I have a pet chicken
+
+## Contact
+
+- ianqiulillelund@gmail.com  
+- i78979848@gmail.com
 
