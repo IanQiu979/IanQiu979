@@ -21,6 +21,7 @@ Focused on low-level programming and AI development.
 
 - Visual Studio Code
 - Xcode
+- Leetcode : https://leetcode.com/u/LAm3RRkFTn/
 
 ## A Bit About Me
 
