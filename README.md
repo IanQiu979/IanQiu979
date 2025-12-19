@@ -1,16 +1,17 @@
-## Hi there 👋
+## I am Ian Qiu
+## I am a dual national citizen from Denmark and China
+## I currently am a Junior developer 
 
-<!--
-**IanQiu979/IanQiu979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currenlty working on:
+## The Lanuguage C
+## Creating an Ai model named Kiyo.Ai
+## Learning other type of Languages (Example: C++, Python, Rust, Html and more)
 
-Here are some ideas to get you started:
+## I use the tools of Visual Studio Code and Xcode to help me code with C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can reach me by emailing me with these two emails:
+## ianqiulillelund@gmail.com
+## i78979848@gmail.com
+
+## Thank you
+
