@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian</h1> 
 <h3 align="center">Junior Software Developer with dual nationality (Denmark and China). Focused on low-level programming and AI development.</h3>
----
-![image](https://github.com/IanQiu979/IanQiu979/blob/main/solo_leveling.jpg?raw=true)
----
+
 - 🔭 I’m currently working on [Kiyo.Ai](https://github.com/IanQiu979/Kiyo.Ai)
 
 - 🌱 I’m currently learning **Harvard's Cs50 Course, and the Tatsuya Shiba Roadmap**
