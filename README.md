@@ -20,9 +20,13 @@
 - i7897848@gmail.com
 
   Tools I use:
+  
   -Xcode
+  
   -Visual Studio Code
+  
   -Github
+  
   -Leetcode: https://leetcode.com/u/UZhIWbikj3/
 
 - ⚡ Fun facts
