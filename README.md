@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian</h1> 
-<h3 align="center">Junior Software Developer with dual nationality (Denmark and China). Focused on low-level programming and AI development.</h3>
+<h3 align="center">Junior Ai Engineer with dual nationality (Denmark and China). Focused on low-level programming and AI development.</h3>
 
 - 🔭 I’m currently working on [Kiyo.Ai] A rule based Ai made with C.
 
