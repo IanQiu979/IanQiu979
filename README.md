@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian</h1> 
 <h3 align="center">Junior Software Developer with dual nationality (Denmark and China). Focused on low-level programming and AI development.</h3>
 
-- 🔭 I’m currently working on [Kiyo.Ai](https://github.com/IanQiu979/Kiyo.Ai)
+- 🔭 I’m currently working on [Kiyo.Ai] A rule based Ai made with C.
 
-- 🌱 I’m currently learning **Harvard's Cs50 Course, and the Tatsuya Shiba Roadmap**
+- 🌱 I’m currently learning **Harvard's Cs50 Course, and the AI ENGINEER + COMPUTER SCIENCE — FOCUSED ELITE PLAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IanQiu979/IanQiu979/blob/main/README.md](https://github.com/IanQiu979/IanQiu979/blob/main/README.md)
 
@@ -12,7 +12,6 @@
 - Learning additional languages:
   - C++
   - Python
-  - Rust
   - HTML
 
 📫 How to reach me
@@ -30,7 +29,7 @@
   -Leetcode: https://leetcode.com/u/UZhIWbikj3/
 
 - ⚡ Fun facts
-- 📺 I enjoy watching anime, especially Classroom of the Elite, Solo Leveling, and The Irregular at Magic High School.
+- 📺 I enjoy watching anime, especially Classroom of the Elite, Sword Art Online, Solo Leveling, and The Irregular at Magic High School.
 - 📱 I enjoy playing brawl stars in my free time/also clash royale
 - 🐔 I have a pet chicken**
 
