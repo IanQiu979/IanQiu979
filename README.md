@@ -1,43 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ian</h1> 
-<h3 align="center">Junior Ai Engineer with dual nationality (Denmark and China). Focused on low-level programming and AI development.</h3>
+<h1 align="center">Hi 👋, I'm Ian Qiu</h1>
 
-- 🔭 I’m currently working on [Kiyo.Ai] A rule based Ai made with C.
+<h3 align="center">
+AI App Engineer • Mobile App Developer • Entrepreneur • Running Coach
+</h3>
 
-- 🌱 I’m currently learning **Harvard's Cs50 Course, and the AI ENGINEER + COMPUTER SCIENCE — FOCUSED ELITE PLAN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/IanQiu979/IanQiu979/blob/main/README.md](https://github.com/IanQiu979/IanQiu979/blob/main/README.md)
-
-- 💬 Ask me about **C programming, Html and Css**
-  
-- Learning additional languages:
-  - C++
-  - Python
-  - HTML
-
-📫 How to reach me
-- ianqiulillelund@gmail.com
-- i7897848@gmail.com
-
-  Tools I use:
-  
-  -Xcode
-  
-  -Visual Studio Code
-  
-  -Github
-  
-  -Leetcode: https://leetcode.com/u/UZhIWbikj3/
-
-- ⚡ Fun facts
-- 📺 I enjoy watching anime, especially Classroom of the Elite, Sword Art Online, Solo Leveling, and The Irregular at Magic High School.
-- 📱 I enjoy playing brawl stars in my free time/also clash royale
-- 🐔 I have a pet chicken**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ian qiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ian qiu" height="30" width="40" /></a>
-<a href="https://discord.gg/BeatingTheUnbeatble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BeatingTheUnbeatble" height="30" width="40" /></a>
+<p align="center">
+Building AI-powered mobile applications while studying business, software engineering, and emerging AI technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+* 🔭 Currently building **Echo – AI Running Coach**, an AI-powered running and coaching platform.
+* 🌱 Learning how to build and scale AI businesses through app development and real-world execution.
+* 📱 Focused on **AI Applications**, **Mobile Development**, and **Running Technology**.
+* 💡 Interested in entrepreneurship, AI tools, product development, and performance optimization.
+* 🏃 Passionate about running science, training methodologies, and helping runners improve performance.
+* 🎯 Long-term goal: Build technology products that positively impact millions of people worldwide.
+
+---
+
+## 💬 Ask Me About
+
+* AI Applications
+* Mobile App Development
+* React Native
+* Running Science
+* Running Form Improvement
+* AI Tools & Workflows
+* Startup Building
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Development
+
+* React Native
+* Expo
+* JavaScript
+* HTML
+* CSS
+
+### Backend & Infrastructure
+
+* Supabase
+* Claude API
+
+### Tools
+
+* Visual Studio Code
+* Claude Code
+* GitHub
+
+---
+
+## 📫 Contact
+
+* Email: [ianqiulillelund@gmail.com](mailto:ianqiulillelund@gmail.com)
+* Email: [i7897848@gmail.com](mailto:i7897848@gmail.com)
+
+---
+
+## 🎯 Current Focus
+
+Building AI-powered software products while learning:
+
+* AI Engineering
+* Product Development
+* Startup Growth
+* Business Systems
+* Modern AI Tooling
+
+---
+
+## ⚡ Fun Facts
+
+* 📺 I enjoy watching anime, especially action, strategy, and fantasy series.
+* 🏃 Running and fitness are major interests of mine.
+* 📱 I enjoy exploring new technology and AI tools.
+* 🚀 I spend much of my time building apps and learning how successful businesses operate.
+
+---
+
+## 🌟 Vision
+
+My mission is to build impactful technology products that improve people's lives through AI, software, and innovation.
