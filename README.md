@@ -8,7 +8,7 @@ I work on keeping AI systems inside their boundaries — and I build the product
 
 ### Security
 
-**AI Barrier** — agent containment for developer machines *(private; write-up available on request)*
+**[AI Barrier](https://github.com/IanQiu979/ai-barrier-explained)** — agent containment for developer machines *(design write-up; implementation private)*
 
 Keeps local AI coding agents out of folders they have no business reading. Not a policy file they can ignore: a Seatbelt profile on macOS and Landlock on Linux make the boundary a kernel decision, so an agent started through the barrier gets `EPERM` rather than a warning. A root-owned daemon means an agent running as you cannot disable it, edit it, or unlock what it locked. A separate system account makes the protected folder unreadable by construction — no watcher, no sandbox, nothing to bypass.
 
