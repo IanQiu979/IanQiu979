@@ -18,7 +18,7 @@ Verified against real agents, not mocks: Claude Code, Cursor and ChatGPT desktop
 
 ### Products
 
-**[Pace Blueprint](https://github.com/IanQiu979/WorkoutGenerationv2.2)** — AI running-plan generation · React Native · Cloudflare Workers · Supabase
+**[Running Plan Creation](https://github.com/IanQiu979/WorkoutGenerationv2.2)** — AI running-plan generation · React Native · Cloudflare Workers · Supabase
 
 A deterministic engine computes every number in a training plan — distance, pace, heart-rate zone, RPE — from a coaching rule set. The language model is asked only for prose, through a forced tool call whose schema has no numeric field. No model output can change a training number, by construction rather than by review. 900+ tests.
 
