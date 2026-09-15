@@ -1,89 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ian Qiu</h1>
+# Ian Qiu
 
-<h3 align="center">
-AI App Engineer • Mobile App Developer • Entrepreneur • Running Coach
-</h3>
+**AI security engineer, and an AI product engineer second.**
 
-<p align="center">
-Building AI-powered mobile applications while studying business, software engineering, and emerging AI technologies.
-</p>
+I work on keeping AI systems inside their boundaries — and I build the products that live inside them.
 
 ---
 
-## 🚀 About Me
+### Security
 
-* 🔭 Currently building **Echo – AI Running Coach**, an AI-powered running and coaching platform.
-* 🌱 Learning how to build and scale AI businesses through app development and real-world execution.
-* 📱 Focused on **AI Applications**, **Mobile Development**, and **Running Technology**.
-* 💡 Interested in entrepreneurship, AI tools, product development, and performance optimization.
-* 🏃 Passionate about running science, training methodologies, and helping runners improve performance.
-* 🎯 Long-term goal: Build technology products that positively impact millions of people worldwide.
+**AI Barrier** — agent containment for developer machines *(private; write-up available on request)*
 
----
+Keeps local AI coding agents out of folders they have no business reading. Not a policy file they can ignore: a Seatbelt profile on macOS and Landlock on Linux make the boundary a kernel decision, so an agent started through the barrier gets `EPERM` rather than a warning. A root-owned daemon means an agent running as you cannot disable it, edit it, or unlock what it locked. A separate system account makes the protected folder unreadable by construction — no watcher, no sandbox, nothing to bypass.
 
-## 💬 Ask Me About
-
-* AI Applications
-* Mobile App Development
-* React Native
-* Running Science
-* Running Form Improvement
-* AI Tools & Workflows
-* Startup Building
+Verified against real agents, not mocks: Claude Code, Cursor and ChatGPT desktop, every helper process denied.
 
 ---
 
-## 🛠️ Technologies & Tools
+### Products
 
-### Development
+**[Pace Blueprint](https://github.com/IanQiu979/WorkoutGenerationv2.2)** — AI running-plan generation · React Native · Cloudflare Workers · Supabase
 
-* React Native
-* Expo
-* JavaScript
-* HTML
-* CSS
+A deterministic engine computes every number in a training plan — distance, pace, heart-rate zone, RPE — from a coaching rule set. The language model is asked only for prose, through a forced tool call whose schema has no numeric field. No model output can change a training number, by construction rather than by review. 900+ tests.
 
-### Backend & Infrastructure
+**[Running Form Analysis](https://github.com/IanQiu979/v2.3_RunningFormAna)** — video gait analysis · React Native · Supabase Edge Functions
 
-* Supabase
-* Claude API
-
-### Tools
-
-* Visual Studio Code
-* Claude Code
-* GitHub
+Scores four running-form pillars from user video, under an honesty contract: a pillar that cannot be assessed says so rather than guessing, and the quota slot is refunded rather than charged. Includes an LLM eval harness, structured-output validation, and reservation semantics with explicit refund paths. 2,500+ tests.
 
 ---
 
-## 📫 Contact
+### Working together
 
-* Email: [ianqiulillelund@gmail.com](mailto:ianqiulillelund@gmail.com)
-* Email: [i7897848@gmail.com](mailto:i7897848@gmail.com)
+**Need an app built?** I take on paid builds — mobile and AI-backed products, end to end.
 
----
+**Collaborations** on interesting projects are welcome.
 
-## 🎯 Current Focus
+**Security reviews** scoped to AI agents and AI tooling: agent sandboxing, tool permissions, prompt-to-tool-call boundaries, and what your agent can actually reach.
 
-Building AI-powered software products while learning:
-
-* AI Engineering
-* Product Development
-* Startup Growth
-* Business Systems
-* Modern AI Tooling
+Email me at [ianqiulillelund@gmail.com](mailto:ianqiulillelund@gmail.com) or [i78979848@gmail.com](mailto:i78979848@gmail.com).
 
 ---
 
-## ⚡ Fun Facts
+### How I work
 
-* 📺 I enjoy watching anime, especially action, strategy, and fantasy series.
-* 🏃 Running and fitness are major interests of mine.
-* 📱 I enjoy exploring new technology and AI tools.
-* 🚀 I spend much of my time building apps and learning how successful businesses operate.
-
----
-
-## 🌟 Vision
-
-My mission is to build impactful technology products that improve people's lives through AI, software, and innovation.
+- A test that cannot fail is not coverage.
+- The model writes prose; deterministic code owns every number a user depends on.
+- Destructive paths refuse rather than proceed.
